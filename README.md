@@ -52,11 +52,8 @@
 
 ### **Ferramentas & Produtividade**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 </div>
@@ -86,13 +83,11 @@
 
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Mello7z&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas do GitHub" />
-  
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mello7z&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
 </div>
 
 <div align="center" style="margin-top: 10px;">
- 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mello7z&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mello7z&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
