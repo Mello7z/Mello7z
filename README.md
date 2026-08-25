@@ -10,7 +10,7 @@
   <a href="mailto:renan.rochaa0@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://ais-pre-22smnqyltcerwjv4tnbq4c-98527099169.us-west1.run.app">
+  <a href="https://renan-os-portfolio.web.app/">
     <img src="https://img.shields.io/badge/Portfólio_Live-FF6B00?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Portfólio" />
   </a>
 </p>
