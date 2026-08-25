@@ -71,7 +71,7 @@
       </p>
       <p align="center">
         <a href="https://github.com/Mello7z/renan-os"><b>Ver Repositório ↗</b></a> ·
-        <a href="https://ais-pre-22smnqyltcerwjv4tnbq4c-98527099169.us-west1.run.app"><b>Live Demo ↗</b></a>
+        <a href="https://renan-os-portfolio.web.app/"><b>Live Demo ↗</b></a>
       </p>
     </td>
   </tr>
