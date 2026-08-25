@@ -52,8 +52,11 @@
 
 ### **Ferramentas & Produtividade**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 </div>
@@ -70,7 +73,7 @@
         Um portfólio completo em formato de Sistema Operacional Cyberpunk com gerenciamento de janelas, jogos arcade em tempo real, terminal interativo e persistência de dados no Firebase Firestore.
       </p>
       <p align="center">
-        <a href="https://github.com/Mello7z/renan-os"><b>Ver Repositório ↗</b></a> ·
+        <a href="https://github.com/Mello7z/Portfolio-RenanOs"><b>Ver Repositório ↗</b></a> ·
         <a href="https://renan-os-portfolio.web.app/"><b>Live Demo ↗</b></a>
       </p>
     </td>
@@ -83,10 +86,12 @@
 
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Mello7z&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas do GitHub" />
+  
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mello7z&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
 </div>
 
 <div align="center" style="margin-top: 10px;">
+ 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mello7z&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
@@ -105,10 +110,3 @@
   <sub>⭐️ Desenvolvido por <b>Renan Emanoel Rocha (@Mello7z)</b></sub>
 </div>
 
-<br clear="both">
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
-</picture>
